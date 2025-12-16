@@ -160,12 +160,8 @@ header
     font-weight: 600;
     min-width: 60px;
     text-align: center;
-}
-
-.dark .year 
-{
-    background-color: var(--bg-color);
-    color: var(--text-color);
+    display: inline-block; 
+    margin-right: 10px; 
 }
 
 /* Current Project */
